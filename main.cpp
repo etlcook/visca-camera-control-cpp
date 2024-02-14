@@ -1,4 +1,4 @@
-#include "jIPPTZ-control-loop.cpp"
+#include "control-loop.cpp"
 
 std::mutex jIPPTZCommandMutexG;
 int zoomCameraCommand;
